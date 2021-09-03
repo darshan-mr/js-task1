@@ -1,0 +1,74 @@
+body {
+    background-image: url('23ed30d-1.png');
+}
+
+h1 {
+    position: absolute;
+    left: 43%;
+    top: 20%;
+    color: #fff;
+    text-shadow: 0 0 20px aquamarine;
+}
+
+h2 {
+    position: absolute;
+    left: 49%;
+    top: 28%;
+    font-size: 38px;
+    text-align: center;
+    color: rgb(65, 163, 255);
+    text-shadow: 0 0 20px rgb(25, 171, 255);
+}
+
+#strt {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(252, 21, 98);
+    position: absolute;
+    width: 15%;
+    left: 42%;
+    top: 38%;
+}
+
+#userinput {
+    background-color: rgb(255, 249, 253);
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    border: none;
+    box-shadow: 0 0 20px firebrick;
+}
+
+#ent {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(252, 21, 98);
+    position: absolute;
+    left: 48%;
+    top: 49%;
+}
+
+#ts {
+    position: absolute;
+    top: 54%;
+    left: 44%;
+    color: rgba(31, 240, 255, 0.911);
+    text-shadow: 0 0 20px rgb(25, 220, 255);
+    font-size: 25px;
+}
+
+#output {
+    position: absolute;
+    top: 58%;
+    left: 46%;
+    color: rgba(250, 85, 113, 0.911);
+    text-shadow: 0 0 20px rgb(25, 220, 255);
+    font-size: 25px;
+}
